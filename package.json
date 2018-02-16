@@ -1,0 +1,16 @@
+{
+  "name": "MQuery_Amazon",
+  "version": "1.0.0",
+  "description": "# Amazon Charity Trust",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "node-sass ./styles/stsh.scss ./styles/stsh.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
